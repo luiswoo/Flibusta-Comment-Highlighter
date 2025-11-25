@@ -24,7 +24,7 @@
         debug: true,
         highlightColors: {
             whitelist: '#11AA44',
-            blacklist: '#f754e1'
+            blacklist: '#cc7722'
         },
         maxRetries: 3,
         retryDelay: 2000
